@@ -1,1 +1,6 @@
-# iosevkatermcurlyslab
+# Iosevkatermcurlyslab WebFont 28.1.0
+
+## How to use
+
+- Add `<link href="https://iosevka-webfonts.github.io/iosevkatermcurlyslab/iosevkatermcurlyslab.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevkatermcurlyslab Web'` or `font-family: 'Iosevkatermcurlyslab Web'`.

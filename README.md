@@ -1,4 +1,4 @@
-# Iosevkatermcurlyslab WebFont 32.2.1
+# Iosevkatermcurlyslab WebFont 32.3.0
 
 ## How to use
 
